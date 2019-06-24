@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://api:reactAPI@devconnector-peq5o.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretToken-DAW+SDFe4fka9fawf",
+  "githubClientId": "f20fda635d78e535a0c4",
+  "githubSecret": "c4a8cc1ebf3517da093501f4255960f69e0064bb"
+}
